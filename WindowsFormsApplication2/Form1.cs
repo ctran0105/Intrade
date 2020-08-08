@@ -53,7 +53,7 @@ namespace WindowsFormsApplication2
                     string header = sr.ReadLine();
                     if (string.IsNullOrEmpty(header))
                     {
-                       // MessageBox.Show("File is empty.");
+                       // MessageBox.Show("File is empty. update");
 
                     }
                    // MessageBox.Show(header);
