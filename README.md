@@ -1,1 +1,1 @@
-# Intrade
+# Stock Trade Management
